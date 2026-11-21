@@ -2,8 +2,8 @@
 
 浏览器书签-收藏夹-有效性检测
 
-- 移动端 - [网页版](https://lhj1618github.github.io/html/Tool/书签有效性检测.html)
-- Windows - [下载程序](https://github.com/lhj1618GitHub/url-togo/releases)
+- 移动端 - [网页版](https://lhj1618github.github.io/html/Tool/书签有效性检测.html)- [下载](https://github.com/lhj1618GitHub/url-togo/releases)
+- Windows - [下载](https://github.com/lhj1618GitHub/url-togo/releases)
 
 ---
 
